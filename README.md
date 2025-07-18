@@ -1,4 +1,4 @@
-## 💻 Tecnologias que uso no dia a dia
+## 💻 
 
 <div align="center">
   
