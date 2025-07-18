@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 Tecnologias que uso
+## 🧠 Tecnologias que uso atualmente
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 Estatísticas Atuais
+## 📊 Estatísticas atuais no GitHub
 
 <div align="center">
 
