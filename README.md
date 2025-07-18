@@ -17,5 +17,5 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
 
   <br /><br />
-  [![Spotify Follow](https://img.shields.io/badge/Spotify-Follow-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/a06uay17lmnxn1fnvqhwyj65z)
+  [![Spotify Follow](![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white))](https://open.spotify.com/user/a06uay17lmnxn1fnvqhwyj65z)
 </div>
