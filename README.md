@@ -19,4 +19,5 @@
 
   <br /><br />
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/a06uay17lmnxn1fnvqhwyj65z)
+  [![MAL](https://img.shields.io/badge/MAL-2e51a2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Theuso)
 </div>
