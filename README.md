@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🎯 Desenvolvedor focado em soluções web com sólida experiência em tecnologias Microsoft e JavaScript.<br/>
+🎯 Desenvolvedor focado em soluções web com experiência em tecnologias Microsoft e JavaScript.<br/>
 💡 Sempre em busca de novas stacks e desafios.<br/>
 🎧 Curto animes e ouvir músicas.
 
